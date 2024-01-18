@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clint-DevOps
 - 👀 I’m interested in Software Development, Blockchain and DevOps
-- 🌱 I’m currently learning Linux, Back-end Web Development @Alxse
+- 🌱 I’m currently learning Linux, Back-end Web Development
 - 💞️ I’m looking to collaborate on any good project.
 - 📫 How to reach me: +2348144539078, IG @jc_klint
 - 😄 Pronouns: He/Him
